@@ -1,0 +1,15 @@
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\bin\Debug\net6.0\Seminar5_Zadacha33.exe
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\bin\Debug\net6.0\Seminar5_Zadacha33.deps.json
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\bin\Debug\net6.0\Seminar5_Zadacha33.runtimeconfig.json
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\bin\Debug\net6.0\Seminar5_Zadacha33.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\bin\Debug\net6.0\Seminar5_Zadacha33.pdb
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.csproj.AssemblyReference.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.AssemblyInfoInputs.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.AssemblyInfo.cs
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\refint\Seminar5_Zadacha33.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.pdb
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\Seminar5_Zadacha33.genruntimeconfig.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_Zadacha33\obj\Debug\net6.0\ref\Seminar5_Zadacha33.dll
