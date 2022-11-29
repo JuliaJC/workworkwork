@@ -1,0 +1,15 @@
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\bin\Debug\net6.0\Seminar5_1.exe
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\bin\Debug\net6.0\Seminar5_1.deps.json
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\bin\Debug\net6.0\Seminar5_1.runtimeconfig.json
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\bin\Debug\net6.0\Seminar5_1.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\bin\Debug\net6.0\Seminar5_1.pdb
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.AssemblyInfoInputs.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.AssemblyInfo.cs
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\refint\Seminar5_1.dll
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.pdb
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\Seminar5_1.genruntimeconfig.cache
+D:\Рабочий стол\Тестировщик\3 курс С#\Попытки с семинаров и лекций\Seminar5_1\obj\Debug\net6.0\ref\Seminar5_1.dll
