@@ -24,4 +24,15 @@ int ReadInt(string message)
 }
 
 /*Console.WriteLine("["+String.Join(" -> ", numbers)+ "] -> "+ sum);
-Console.WriteLine($"[{String.Join(" -> ", numbers)}] -> {sum}");*/
+Console.WriteLine($"[{String.Join(" -> ", numbers)}] -> {sum}");
+
+int number = ReadInt("Введите десятичное число: ");
+string binaryNumber = "";
+int baseNumber = 2;
+while(number > 0)
+{
+int divider = number % baseNumber;
+binaryNumber = divider + binaryNumber;
+number /= baseNumber;
+}
+Console.WriteLine(binaryNumber);*/
