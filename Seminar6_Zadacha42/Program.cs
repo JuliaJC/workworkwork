@@ -11,18 +11,10 @@ string bynary = "";
 
 while(temp != 0)
 {
-    bynary += Convert.ToString(temp%2);
+    bynary = temp%2 + bynary;
     temp /= 2;
 }
-string result = "";
-for(int i = bynary.Length-1; i >=0; i--) 
-{
-    result += bynary [i];
-}
-
-
 Console.WriteLine(bynary);
-Console.WriteLine(result);
 
 int ReadInt(string message)
 {
