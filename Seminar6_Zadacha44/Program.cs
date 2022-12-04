@@ -7,9 +7,9 @@
 int number = ReadInt("Введите число: ");
 int[] fibonacci = new int[number];
 
-if(count > 0)
+if(number > 0)
 fibonacci[0] = 0;
-if(count > 1)
+if(number > 1)
 fibonacci[1] = 1;
 
 for(int i = 2; i<number; i++)
