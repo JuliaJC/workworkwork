@@ -6,8 +6,11 @@
 
 int number = ReadInt("Введите число: ");
 int[] fibonacci = new int[number];
-fibonacci[0]=0;
-fibonacci[1]=1;
+
+if(count > 0)
+fibonacci[0] = 0;
+if(count > 1)
+fibonacci[1] = 1;
 
 for(int i = 2; i<number; i++)
 {
