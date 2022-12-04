@@ -43,12 +43,3 @@ Console.Write(array[i] + " ");
 Console.WriteLine();
 }
 
-/*int[] MultipleArrayFirstAndLast(int[] array)
-{
-int size = array.Length;
-for (int i = 0, g = size - 1; i < size / 2; i++, g--)
-{
-result[i] = numbers[i] * numbers[g];
-}
-return result;
-}*/
