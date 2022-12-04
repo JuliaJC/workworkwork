@@ -30,3 +30,6 @@ int ReadInt(string message)
     int number = Convert.ToInt32(Console.ReadLine());
     return number;
 }
+
+/*Console.WriteLine("["+String.Join(" -> ", numbers)+ "] -> "+ sum);
+Console.WriteLine($"[{String.Join(" -> ", numbers)}] -> {sum}");*/
