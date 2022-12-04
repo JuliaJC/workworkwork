@@ -4,15 +4,7 @@
 Если N = 3 -> 0 1 1
 Если N = 7 -> 0 1 1 2 3 5 8*/
 
-int number;
-
-while(true)
-{
-number = ReadInt("Введите число: ");
-if(number>0) break;
-else
-Console.WriteLine("Введите число больше 0.");
-}
+int number = ReadInt("Введите число: ");
 int[] fibonacci = new int[number];
 fibonacci[0]=0;
 fibonacci[1]=1;
