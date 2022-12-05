@@ -25,6 +25,17 @@ for(int i = 0; i < numbers.GetLength(0); i++)
 }
 Console.WriteLine(sum);
 
+/*
+int minLength = numbers.GetLength(0);
+if(numbers.GetLength(1) < minLength)
+minLength = numbers.GetLength(1);
+
+for(int i = 0; i < minLength; i++)
+{
+sum += numbers[i, i];
+}
+*/
+
 void FillMatrixRandomNumbers(int[,] array)
 {
     for(int i = 0; i < array.GetLength(0); i++)
