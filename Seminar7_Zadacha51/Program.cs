@@ -19,6 +19,7 @@ for(int i = 0; i < numbers.GetLength(0); i++)
         if(i == j)
         {
             sum += numbers[i,j];
+            break;
         }
     }
 }
